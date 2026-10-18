@@ -5,9 +5,9 @@
 > "如果自由意味着什么的话，那就是告诉人们他们不想听的话的权利。" —— 乔治·奥威尔
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将奥威尔的政治写作清晰性、反模糊语言立场与为真相写作的信念蒸馏为 Claude Code 可调用的写作视角技能。**
+**将奥威尔的政治写作清晰性、反模糊语言立场与为真相写作的信念蒸馏为 Claude Code 等 Agent Skills 客户端可调用的写作视角技能。**
 
 </div>
 
@@ -78,7 +78,7 @@ npx skills add nuwa-skills/orwell-skill
 
 ```
 orwell-skill/
-├── SKILL.md                        # 技能主文件（Claude Code 读取）
+├── SKILL.md                        # 技能主文件（Claude Code 等客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
